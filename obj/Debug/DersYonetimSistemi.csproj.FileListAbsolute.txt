@@ -1,0 +1,118 @@
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\DersYonetimSistemi.exe.config
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\DersYonetimSistemi.exe
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\DersYonetimSistemi.pdb
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Npgsql.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Buffers.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Memory.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Text.Json.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\Npgsql.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Buffers.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Memory.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Text.Json.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.Form1.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.formDersGuncelle.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.formDersKayit.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.formDersOrtalama.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.formDersSil.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.formHocaDersListesi.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.formHocaSınıf.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.formOgrenciKayit.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.Properties.Resources.resources
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.csproj.CopyComplete
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.exe
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.pdb
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\DersYonetimSistemi.exe.manifest
+C:\Users\omerr\source\repos\DersYonetimSistemi\bin\Debug\DersYonetimSistemi.application
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.exe.manifest
+C:\Users\omerr\source\repos\DersYonetimSistemi\obj\Debug\DersYonetimSistemi.application
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\DersYonetimSistemi.exe.config
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\DersYonetimSistemi.exe.manifest
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\DersYonetimSistemi.application
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\DersYonetimSistemi.exe
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\DersYonetimSistemi.pdb
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Npgsql.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Buffers.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Collections.Immutable.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Memory.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Text.Json.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Threading.Channels.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.ValueTuple.dll
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\Npgsql.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Buffers.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Collections.Immutable.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Memory.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Text.Json.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Threading.Channels.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\bin\Debug\System.ValueTuple.xml
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.Form1.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.formDersGuncelle.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.formDersKayit.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.formDersOrtalama.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.formDersSil.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.formHocaDersListesi.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.formHocaSınıf.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.formOgrenciKayit.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.Properties.Resources.resources
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.exe.manifest
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.application
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.csproj.CopyComplete
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.exe
+C:\Users\omerr\Desktop\220601001_Ömer_KARAKEÇE_ButunlemeProje\220601001_Ömer_KARAKEÇE_ButunlemeProje\obj\Debug\DersYonetimSistemi.pdb
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.Form1.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.formDersGuncelle.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.formDersKayit.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.formDersOrtalama.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.formDersSil.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.formHocaDersListesi.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.formHocaSınıf.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.formOgrenciKayit.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.Properties.Resources.resources
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.exe
+C:\Users\omerr\Desktop\Course Management System\obj\Debug\DersYonetimSistemi.pdb
